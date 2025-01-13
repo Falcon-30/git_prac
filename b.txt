@@ -1,2 +1,4 @@
 hello b.txt
+hello from other b.txt
 hello from master b.txt
+
